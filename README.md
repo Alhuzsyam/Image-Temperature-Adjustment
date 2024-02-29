@@ -5,7 +5,7 @@ The application has three buttons: the first button is for uploading images, the
 Please note that the application only supports JPEG images, and the output is also in JPEG format. If you upload any other format besides JPEG, the process will be rejected.
 
 Here is the result :)
-![Alt text](<Screen Shot 2024-02-29 at 23.36.43.png>)
+![Alt text](image.gif)
 
 > To view the demo, please visit the link provided below:
 https://65e0bbcb5b5dc20096b2833f--imagedit-alfi.netlify.app/
