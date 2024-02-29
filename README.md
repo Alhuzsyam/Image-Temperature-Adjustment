@@ -7,3 +7,5 @@ Please note that the application only supports JPEG images, and the output is al
 Here is the result :)
 ![Alt text](<Screen Shot 2024-02-29 at 23.36.43.png>)
 
+> To view the demo, please visit the link provided below:
+https://65e0bbcb5b5dc20096b2833f--imagedit-alfi.netlify.app/
